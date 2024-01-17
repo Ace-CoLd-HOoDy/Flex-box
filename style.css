@@ -1,0 +1,45 @@
+.zadacha{
+font-size: 40px;
+}
+
+.box{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+.box-yellow{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+.wrapper{
+    display: flex;
+}
+
+.box-2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+.box-yellow-2{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.wrapper-2{
+    display: flex;
+}
+
+.wrapper-4{
+    display: flex;
+}
+.container_2{
+    display: flex;
+    justify-content: space-between;
+    width: 406px;
+}
